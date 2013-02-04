@@ -5,9 +5,9 @@
  *         Date: 2/2/13
  *         Time: 11:28 PM
  */
-namespace Compare\Intersection;
+namespace ClassComparer\Intersection;
 
-use Compare\Scanner\DirectoryScanner;
+use ClassComparer\Scanner\DirectoryScanner;
 use Zend\Code\Scanner\FileScanner;
 
 class FilesIntersectLocator implements IntersectAware

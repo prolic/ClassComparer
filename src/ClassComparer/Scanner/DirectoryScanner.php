@@ -6,7 +6,7 @@
  *         Time: 1:49 PM
  */
 
-namespace Compare\Scanner;
+namespace ClassComparer\Scanner;
 
 use RecursiveIteratorIterator;
 use RecursiveDirectoryIterator;

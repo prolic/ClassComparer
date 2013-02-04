@@ -5,7 +5,7 @@
  *         Date: 2/3/13
  *         Time: 12:12 AM
  */
-namespace Compare\Intersection\Exception;
+namespace ClassComparer\Intersection\Exception;
 
 class InvalidArgumentException extends \InvalidArgumentException
 {

@@ -5,7 +5,7 @@
  *         Date: 2/2/13
  *         Time: 11:59 PM
  */
-namespace Compare\Difference\Result;
+namespace ClassComparer\Difference\Result;
 
 class Methods
 {
