@@ -5,7 +5,7 @@
  *         Date: 2/2/13
  *         Time: 11:25 PM
  */
-namespace Compare\Intersection;
+namespace ClassComparer\Intersection;
 
 interface IntersectAware
 {

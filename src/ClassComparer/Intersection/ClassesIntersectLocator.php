@@ -5,7 +5,7 @@
  *         Date: 2/2/13
  *         Time: 11:40 PM
  */
-namespace Compare\Intersection;
+namespace ClassComparer\Intersection;
 
 use Zend\Code\Scanner\FileScanner;
 use Exception;

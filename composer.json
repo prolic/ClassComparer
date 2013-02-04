@@ -1,0 +1,27 @@
+{
+    "name":"olekhy/class-comparer",
+    "description":"useful to find difference in same classes in different directories",
+    "type": "library",
+    "keywords": ["zf2", "class", "compare", "analysis"],
+    "autoload":{
+        "psr-0":{
+            "ClassComparer\\": "src"
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packages.zendframework.com/"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Oleksandr Khutoretskyy",
+            "email": "olekhy@googlemail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zend-code": ">=2.1"
+    }
+}
