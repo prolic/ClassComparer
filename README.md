@@ -16,8 +16,8 @@ Using Composer (recommended)
 ----------------------------
     cd my/project/dir
     git clone git://github.com/olekhy/ClassComparer.git
-    curl -s https://getcomposer.org/installer | php
     cd ClassComparer
+    curl -s https://getcomposer.org/installer | php
     php composer.phar install
 
 Usage
